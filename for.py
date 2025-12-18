@@ -6,7 +6,7 @@ for item in result:
         count += 1
 print("Heads count: ",count)
 '''
-
+# my comments 
 month_list = ["January", "February", "March", "April", "May"]
 expense_list = [2340, 2500, 2100, 3100, 2980]
 e = input("Enter expense amount: ")
